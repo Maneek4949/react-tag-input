@@ -1,5 +1,13 @@
 # React + Vite
 
+
+
+#Screen Recording
+https://github.com/Maneek4949/react-tag-input/assets/69102431/e028bd5e-072d-4309-be08-20f4f2f2039f
+
+
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
